@@ -1,0 +1,6 @@
+{
+  "name": "Rupee Expense Tracker",
+  "description": "An Android application to track daily expenses and categories, visualize spend reports and trends, and leverage Gemini AI to suggest budget minimization action in Indian Rupees (₹).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
